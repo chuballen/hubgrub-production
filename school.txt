@@ -1,0 +1,27 @@
+ Calculating Grade:
+The grade will be a weighted average of scores between 0 and 4 as follows: 30% Long HW + 30% Midterm + 5% Short HW + 35% Final Project. This average is then converted to a letter grade A = 4.0, A- = 3.7, B+ =3.3, B =3.0, ... F = 0. See the introductory slides for details.
+
+
+https://answers.microsoft.com/en-us/windows/forum/all/deleted-files-still-showing-in-the-directory-w10/f536ef77-546c-47cc-9951-1cdcbaf48fe3
+
+
+ Deleted files still showing in the directory (W10)
+
+Hi,
+
+I recently noticed that when I was deleting a file, either in the Desktop or any other directories, the deleted file is still showing. If I try to "open" a deleted file, it says file doesn't exist... and after a few seconds or retries, the file eventually disappears from the display but it can take 5 to 10 seconds!
+
+The same happen when renaming a file. After the rename action, the file is still displaying its previous name...
+
+I found a quite identical subject in the forum (unfortunately, not solved) and ran sfc to check my system but it says that nothing is corrupt (good in a certain way!).
+
+Any idea to fix this annoying behavior?
+
+Running under W10 Home v1709 (16299.371) French
+
+I7-4510U @2.60GHz and 8GB RAM (so I don't think it's a System lag ?)
+
+Thanks in advance!
+
+Bd
+

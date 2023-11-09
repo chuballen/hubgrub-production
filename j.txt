@@ -1,0 +1,9 @@
+Why does my folder remain there even after i delete?
+Asked 7 years, 2 months ago
+Modified 7 years, 2 months ago
+Viewed 890 times
+0
+
+I am using Windows 10 pro. Sometimes when i delete or move a folder, the contents are moved but an empty folder remains in the source directory. When I try to access it, windows throws an error message as "Access is denied".
+Only after restart, I can delete that empty folder. It happens to me very often. Can someone tell me what's the root cause of the problem? And how to solve this issue?
+
