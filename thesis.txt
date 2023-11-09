@@ -1,0 +1,116 @@
+https://www.kadansky.com/files/newsletters/2007_09_19.html
+After you delete something, is it really gone?
+
+In my experience, most computer users have one of two concerns about the effect of deleting something:
+
+    They want to make sure it's really gone (e.g., "prom pictures Mom took of me" or "Social Security numbers for former employees"), or
+    They didn't mean to delete it and wish they could get it back (e.g., "the only copy of my 500-page thesis" or "photos of Dad after the war").
+
+It takes two steps to "delete," but even then your data isn't really gone
+When you "delete" data from your computer, typically there are two steps to the process:
+
+    The "delete" function usually moves the item into a special holding area, which acts as a kind of "safety net" in case you change your mind.
+    You can then either move the item back out of that holding area if you've changed your mind, or "empty" it, which makes your data disappear with no obvious way to get it back. What you can't see is that although your data appears to be gone, it's actually still there, but inaccessible by ordinary means. This issue comes up most often with documents and email.
+
+"Deleting" documents from your hard disk
+When you "delete" a document (or a folder containing multiple documents) located on your hard disk, the computer initially moves the document into the Recycle Bin on Windows (or into the Trash on the Macintosh). This is intended as a "safety net," so if you accidentally threw away the wrong document, you can simply open the Recycle Bin (or Trash) folder and drag the document back out again. To complete the deletion process, you can then "empty" the Recycle Bin (or Trash) folder.
+
+However, even after you've "emptied" the trash and the document is no longer accessible, the data it contained is not really gone. The computer doesn't typically "destroy" or "scrub" the data that the document contains, it merely marks those chunks of data as available to be re-used in the future, perhaps by another document you may create or by a file the computer itself may need to make, much like you might put pieces of paper into a scrap pile to be re-used in the future. However, unlike your scrap paper pile, from which you can simply take back your pages, computers don't typically include a way to let you take your deleted document back. In essence, emptying the trash leaves your document "right there" but "out of reach."
+
+Recovering deleted documents
+There are programs you can get that give you the ability to recover deleted files by scanning through all of the "available" chunks on your disk to try to find the ones that comprised your deleted file. This can be a lifesaver if you accidentally delete, say, the only copy of your thesis you've been editing for weeks, and then empty your trash before you realize it. However, to get the best results you have to act soon, since you can't predict when the computer may choose to re-use those particular chunks of data.
+
+Preventing recovery of deleted documents
+On the other hand, if you really need to be sure that, say, a deleted confidential client list can not be recovered in this way by someone else, you'll need to use another kind of program designed to scrub all the unused chunks on your disk, making recovery of deleted documents impossible (except perhaps by the FBI or NSA). This is called "erasing the free space."
+
+    If you're on Windows, there are various programs you can get that can do this, including commercial software (like Norton Utilities' Wipe Info) as well as some free programs.
+    If you're on the Macintosh, in addition to the Finder's Empty Trash function, recent versions of OS X have a new command called "Secure Empty Trash," and the Disk Utility (which comes with OS X) has a function called "Erase Free Space."
+
+"Deleting" documents from a removable disk
+If the file you're throwing away is located on a "removable" disk (like a floppy disk, external disk, or network drive), there are a few differences:
+
+    On Windows, removable drives have no "safety net" Recycle Bin folder of their own, so if you "throw away" a document from a removable drive, it's deleted immediately (usually after a confirmation message).
+    On the Macintosh, removable drives do have their own "safety net" Trash folder just like your hard disk.
+
+Regardless of whether your document is on a hard disk or a removable one, just remember that after you've deleted it, the result is the same - the data it contained is still present but inaccessible.
+
+"Deleting" email messages (or email folders)
+When you delete an email message (or an email folder containing multiple messages), the process is very similar to deleting a document. The details depend on the email software you're using, but in most email programs:
+
+    "Deleting" a message moves it to a special "Deleted Items" or "Trash" folder which can be "emptied."
+    There may be software you can get to recover deleted messages, especially if you use one of the more popular email programs and you act soon.
+
+However, email is different in a few ways:
+
+    Emptying your email trash may also happen automatically, such as when you close the program, or after a certain time period like a week or a month.
+    If you use webmail or AOL, your email isn't stored on your computer at all, so if you want to get a deleted message back after emptying the trash you should contact your email service for help.
+
+When you've deleted pieces of text inside a document or an email
+If you're editing the contents of a document or an email message, once you save your changes the previous version is probably gone. However:
+
+    You might get your text back by pulling down the Edit menu and clicking Undo, but only if the program you're using supports this and you think of it before you close the window.
+    If you're using Microsoft Word, your document may actually contain a record of every change ever made to it, but only if Track Changes (usually in the Tools menu) was turned on beforehand.
+
+Additional places your "deleted" data might still be available to you (or to someone else)
+If you want your deleted data back and none of the above ideas have worked, or if you're concerned that someone else may still have access to data you have deleted, here are some additional things to consider:
+
+For documents:
+
+    You might have a backup or spare copy of your document somewhere else on your computer, on a removable disk, or on paper.
+    You might have sent someone else a copy of your document.
+    If you got that document from someone else, they might still have a copy.
+
+For email:
+
+    If it was an email you received, the sender may still have a copy; depending on how recently, your email service may still have it on their server.
+    If it was an email you sent, you might still have a copy in your Sent Items folder, or the person you sent it to (or their email service) may still have a copy.
+
+Where to go from here
+
+    Be aware of the steps your computer goes through when you "delete" a document: Know where your document "trash" folder is located and how to empty it. Also, notice whether you get any confirmation messages when you "delete" an item or "empty" the trash. Do the same for your email.
+    Check your email program for any automatic ways that your "trash" might get emptied.
+    Set up a good backup system to prevent many of these problems.
+    If you're getting rid of a computer (or removable disk) containing sensitive or private data, make sure that your data gets deleted and the free space gets erased, or have someone physically remove the hard disk and destroy it. 
+
+If you know someone else who might find this helpful, please feel free to forward it to them.
+If you have any comments about this article, send me a reply!
+If you have a topic that you'd like me to write about, I'd love to hear about it!
+I Recommend...
+
+In this section of my newsletter I will sometimes recommend trusted colleagues and other times I'll suggest useful products and software. Today's recommendation is:
+
+Ed McManus
+Insurance Broker - Automobile, Home, and Business insurance
+ARK/Supino Insurance
+
+Are you paying too much for your insurance?
+Are you uncertain about what's covered and what isn't?
+Would you like to be able to reach your agent when you need them?
+Do you know someone who's moving into the area?
+If the answer to any of these questions is "yes," Ed can help!
+
+A number of years ago Ed reviewed my property insurance coverage for free, even though he wasn't my agent at the time. He found a couple of mistakes in coverage that could have created problems for me if I had needed to file a claim. I called my insurance company's 800 number and one of their anonymous people corrected them, with no apology about the incorrect coverage. Later on I switched my insurance into Ed's care. He came to my house in the evening after work, handled all the paperwork, and went to the Registry for me. I highly recommend Ed to anyone who wants excellent service.
+
+Ed is really good at providing:
+
+    The right amount of coverage at the most affordable cost - he can spot mistakes in coverage that can save you money, either in premiums (if you have too much coverage) or in avoiding costly losses (if you have too little)
+    Unparalleled availability - Night and weekend appointments - Ed can meet with you at your home or office, whatever is most convenient for you
+    Personal, friendly, and courteous service for individuals and businesses in Massachusetts and New Hampshire
+    A selection of policies from several different homeowner and auto insurance companies
+    Straight answers to your insurance questions
+    Free review of your current insurance coverage
+
+and he goes to the Registry of Motor Vehicles for you, at no extra charge!
+
+Ed specializes in:
+
+    Personal auto insurance, including AAA and other group discounts
+    Commercial auto insurance
+    Homeowners and renters insurance
+    Personal umbrella liability insurance
+    Commercial property and liability insurance
+    Workers Compensation
+    Business owners insurance
+    Watercraft insurance
+    Special coverage for jewelry, fine art, sporting equipment, musical instruments, silverware, photographic equipment, and other valuables
+
