@@ -1,0 +1,26 @@
+{
+  "name": "doordash-production",
+  "version": "1.0.0",
+  "description": "cool intern project!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello world\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dc1-prod-breaker/doordash-production.git"
+  },
+  "keywords": [
+    "cool",
+    "epic"
+  ],
+  "author": "Ballen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dc1-prod-breaker/doordash-production/issues"
+  },
+  "homepage": "https://github.com/dc1-prod-breaker/doordash-production#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
